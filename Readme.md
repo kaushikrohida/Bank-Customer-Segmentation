@@ -81,11 +81,11 @@ This analysis enables a comprehensive understanding of:
 ## Conclusion
 The analysis of bank customer churn and segmentation provides valuable insights into customer behavior and preferences. By leveraging machine learning techniques, the bank can identify at-risk customers, tailor marketing strategies, and enhance customer engagement. This project not only highlights the importance of data-driven decision-making but also sets the foundation for future enhancements in customer relationship management. The insights gained can lead to improved customer satisfaction, increased retention rates, and ultimately, a more profitable banking operation.
 
-## Additional Files
-- **Data Analysis Scripts**: Python scripts for data cleaning and preprocessing can be found in the `scripts/` directory.
-- **Visualization Scripts**: Scripts for generating visualizations are located in the `visualizations/` directory.
-- **Modeling Scripts**: Scripts for building and evaluating machine learning models are in the `models/` directory.
+## Contributing
 
-## Acknowledgments
-- This project utilizes the KMeans clustering algorithm from the `scikit-learn` library.
-- Special thanks to the contributors and the open-source community for their invaluable resources and libraries.
+Contributions are welcome! If you have ideas for improving the project, feel free to fork the repository and submit a pull request.
+
+## Contact
+
+For questions or suggestions, please contact [Kaushik Rohida](mailto:rohidakaushik@gmail.com).
+
